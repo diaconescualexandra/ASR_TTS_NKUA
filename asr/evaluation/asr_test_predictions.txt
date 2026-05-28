@@ -1,0 +1,80 @@
+Example 1
+REF:  add two tablespoons thick sour cream two tablespoons sugar a sprinkle of mustard and half cup of vinegar
+PRED: add two tablespoons thick sour cream two tablespoons sugar a sprinkle of mustard and half cup of vinegar
+--------------------------------------------------------------------------------
+Example 2
+REF:  they brought before the minds of churchmen a thousand new questions which must be solved unless the church was to relinquish for ever her claims as the great teacher and satisfier of the human soul
+PRED: they brought before the minds of church menen a thousand new questions which must be solved unless the church was to relinquish forever her claims as the great teacher and satisfier of the human soul
+--------------------------------------------------------------------------------
+Example 3
+REF:  we do not hate you as you say the blueskins do nor are we savage or cruel but we do not want you here and i am really puzzled what to do with you
+PRED: we do not hate you as you say the blueskins do nor are we savage or cruel but we do not want you here and i am really puzzled what to do with you
+--------------------------------------------------------------------------------
+Example 4
+REF:  it was so long that it bushed out behind his ears and made him look like the old portraits i remembered in virginia
+PRED: it was so long that it bushed out behind his ears and made him look like the old portraits i remember in virginia
+--------------------------------------------------------------------------------
+Example 5
+REF:  yet the original wears to common eyes a very different expression
+PRED: yet the original wares to common eyes a very different expression
+--------------------------------------------------------------------------------
+Example 6
+REF:  then take it out of the roasting pan and put it into a casserole after sprinkling it with two ounces of flour
+PRED: then take it out of the roasting pan and put it into a castle roll after sprinkling it with two ounces of flour
+--------------------------------------------------------------------------------
+Example 7
+REF:  he gave the discussion up with a slight shrug of the shoulders
+PRED: he gave the discussion up with a slight shrug of the shoulders
+--------------------------------------------------------------------------------
+Example 8
+REF:  gloria standish who had dropped in for lunch was on the mezzanine fairly screaming into a radiophone extension dozen and a half of them
+PRED: gloria standish who had dropped in for lunch was on the mezzineine fairly screaming into a radiophone extension dozen and a half of them
+--------------------------------------------------------------------------------
+Example 9
+REF:  this isn't part of your testing routine is it
+PRED: this isn't part of your testing routine is it
+--------------------------------------------------------------------------------
+Example 10
+REF:  rhein and moselle eighteen ninety three
+PRED: ryan and mozelle eighteen ninety three
+--------------------------------------------------------------------------------
+Example 11
+REF:  she got up on her knees and wrung her hands
+PRED: she got up on her knees and run her hands
+--------------------------------------------------------------------------------
+Example 12
+REF:  she had some slight gift of observation and that sense so rich in every woman intuition
+PRED: she had some slight gift of observation in that sense so rich in every woman intuition
+--------------------------------------------------------------------------------
+Example 13
+REF:  the jailer may forget that he is on guard the prisoner never forgets that he is guarded
+PRED: the jailer may forget that he is on guard the prisoner never forgets that he is guarded
+--------------------------------------------------------------------------------
+Example 14
+REF:  they made me think of defeated armies retreating or of ghosts who were trying desperately to get in for shelter and then went moaning on
+PRED: they made me think of defeated armies retreating or of ghosts who were trying desperately to get in for shelter and then went moaning on
+--------------------------------------------------------------------------------
+Example 15
+REF:  missus horton rose from her seat moved the decanters and fruit round the table stirred the fire and came back to her seat again before another word was uttered
+PRED: missus horton rose from her seat moved the decantterers and fruit round the table stirred the fire and came back to her seat again before another word was uttered
+--------------------------------------------------------------------------------
+Example 16
+REF:  she slid to the floor beside him as if she were too tired to sit up any longer
+PRED: she slid to the floor beside him as if she were too tired to sit up any longer
+--------------------------------------------------------------------------------
+Example 17
+REF:  what then my lord
+PRED: what then my lord
+--------------------------------------------------------------------------------
+Example 18
+REF:  does one mister samuel bozzle live here asked trevelyan
+PRED: just one mister samuel boszil live here asked trarevellan
+--------------------------------------------------------------------------------
+Example 19
+REF:  the bell reverberated through what seemed like an empty house
+PRED: the bell reverberated through what seemed like an empty house
+--------------------------------------------------------------------------------
+Example 20
+REF:  thou makest me remember where and what proserpina that moment was when lost her mother her and she herself the spring
+PRED: thou makeest me remember where and what proupina that moment was when lost her mother her and she herself the spring
+--------------------------------------------------------------------------------
